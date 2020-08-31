@@ -1,2 +1,2 @@
 # eCommerceApp
-e-commerce App
+Starting an e-commerce App
